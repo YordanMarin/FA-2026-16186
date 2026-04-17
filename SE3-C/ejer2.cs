@@ -10,7 +10,9 @@ namespace SE3_C
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("\"YORDAN\"");
 
+            Console.ReadKey();
         }
     }
 }
