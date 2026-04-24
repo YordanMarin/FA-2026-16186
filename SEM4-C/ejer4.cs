@@ -26,26 +26,30 @@ namespace SEM4_C
                 case 1:
                     Console.Write("\nIngresa el lado del cuadrado: ");
                     int l = int.Parse(Console.ReadLine());
-                    Console.WriteLine("\nÁrea del cuadrado: "+(l*l));
+                    area = l * l;
+                    Console.WriteLine("\nÁrea del cuadrado: "+area);
                     break;
                 case 2:
                     Console.Write("\nIngresa la base del triángulo: ");
                     int b = int.Parse(Console.ReadLine());
                     Console.Write("Ingresa la altura del triángulo: ");
                     int h = int.Parse(Console.ReadLine());
-                    Console.WriteLine("\nÁrea del triángulo: " + (b*h/2));
+                    area = b * h / 2;
+                    Console.WriteLine("\nÁrea del triángulo: " + area);
                     break;
                 case 3:
                     Console.Write("\nIngresa la base del rectangulo: ");
                     int br = int.Parse(Console.ReadLine());
                     Console.Write("Ingresa la altura del rectangulo: ");
                     int hr = int.Parse(Console.ReadLine());
-                    Console.WriteLine("\nÁrea del triángulo: " + (br * hr));
+                    area = br * hr;
+                    Console.WriteLine("\nÁrea del triángulo: " + area);
                     break;
                 case 4:
                     Console.Write("\nIngresa la radio del circulo: ");
                     int r = int.Parse(Console.ReadLine());
-                    Console.WriteLine("\nÁrea del circulo: " + (Math.PI * Math.Pow(r, 2)));
+                    area = Math.PI * Math.Pow(r, 2);
+                    Console.WriteLine("\nÁrea del circulo: " + area);
                     break;
                 default:
                     Console.WriteLine("\nOpción incorrecta!");
