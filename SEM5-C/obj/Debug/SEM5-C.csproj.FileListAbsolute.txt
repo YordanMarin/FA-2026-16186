@@ -6,3 +6,11 @@ C:\Users\YordanM\Desktop\FA-2026-16186\SEM5-C\obj\Debug\SEM5-C.csproj.CoreCompil
 C:\Users\YordanM\Desktop\FA-2026-16186\SEM5-C\obj\Debug\SEM5-C.exe
 C:\Users\YordanM\Desktop\FA-2026-16186\SEM5-C\obj\Debug\SEM5-C.pdb
 C:\Users\YordanM\Desktop\FA-2026-16186\SEM5-C\obj\Debug\SEM5-C.exe.config
+C:\Users\UPN\Desktop\FA-2026-16186\SEM5-C\bin\Debug\SEM5-C.exe.config
+C:\Users\UPN\Desktop\FA-2026-16186\SEM5-C\bin\Debug\SEM5-C.exe
+C:\Users\UPN\Desktop\FA-2026-16186\SEM5-C\bin\Debug\SEM5-C.pdb
+C:\Users\UPN\Desktop\FA-2026-16186\SEM5-C\obj\Debug\SEM5-C.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA-2026-16186\SEM5-C\obj\Debug\SEM5-C.exe.config
+C:\Users\UPN\Desktop\FA-2026-16186\SEM5-C\obj\Debug\SEM5-C.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA-2026-16186\SEM5-C\obj\Debug\SEM5-C.exe
+C:\Users\UPN\Desktop\FA-2026-16186\SEM5-C\obj\Debug\SEM5-C.pdb

@@ -10,6 +10,18 @@ namespace SEM5_C
     {
         static void Main(string[] args)
         {
+            int suma = 0;
+            Console.Write("Ingrese la cantidad: ");
+            int cant = int.Parse(Console.ReadLine());
+
+            for (int i = 1;i<=cant ;i++)
+            {
+                Console.Write(i +" ");
+
+                if (i % 2 == 0) suma += i; //suma = suma + i;
+            }
+
+            Console.WriteLine("\n\nSuma de pares: " + suma);
         }
     }
 }
