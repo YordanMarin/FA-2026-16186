@@ -17,6 +17,8 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SE5-P", "SE5-P\SE5-P.pyproj
 EndProject
 Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SE6-P", "SE6-P\SE6-P.pyproj", "{B0A1F5E7-89B7-4ABC-9278-1FFA10A2387D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE7-C", "SE7-C\SE7-C.csproj", "{5FA5D097-AEC1-425A-9E87-F378509899AF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -43,6 +45,10 @@ Global
 		{50B7A84A-91C3-419D-9128-CCCE62C01F28}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B0A1F5E7-89B7-4ABC-9278-1FFA10A2387D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{B0A1F5E7-89B7-4ABC-9278-1FFA10A2387D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA5D097-AEC1-425A-9E87-F378509899AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FA5D097-AEC1-425A-9E87-F378509899AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FA5D097-AEC1-425A-9E87-F378509899AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FA5D097-AEC1-425A-9E87-F378509899AF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
