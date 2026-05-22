@@ -19,6 +19,12 @@ Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SE6-P", "SE6-P\SE6-P.pyproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE7-C", "SE7-C\SE7-C.csproj", "{5FA5D097-AEC1-425A-9E87-F378509899AF}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SE8-P", "SE8-P\SE8-P.pyproj", "{A10AF07C-B812-4CE3-A09C-48E1D239D8C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE9-C", "SE9-C\SE9-C.csproj", "{E7256B4F-B362-4600-9855-C61A15D0B6C3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{8C1B1B89-8E3D-45E0-A350-1887F9F2B98F}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -49,6 +55,16 @@ Global
 		{5FA5D097-AEC1-425A-9E87-F378509899AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{5FA5D097-AEC1-425A-9E87-F378509899AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{5FA5D097-AEC1-425A-9E87-F378509899AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A10AF07C-B812-4CE3-A09C-48E1D239D8C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A10AF07C-B812-4CE3-A09C-48E1D239D8C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7256B4F-B362-4600-9855-C61A15D0B6C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E7256B4F-B362-4600-9855-C61A15D0B6C3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E7256B4F-B362-4600-9855-C61A15D0B6C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E7256B4F-B362-4600-9855-C61A15D0B6C3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C1B1B89-8E3D-45E0-A350-1887F9F2B98F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C1B1B89-8E3D-45E0-A350-1887F9F2B98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C1B1B89-8E3D-45E0-A350-1887F9F2B98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C1B1B89-8E3D-45E0-A350-1887F9F2B98F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

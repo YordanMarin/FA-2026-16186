@@ -1,0 +1,6 @@
+C:\Users\UPN\Desktop\FA-2026-16186\Biblioteca\bin\Debug\Biblioteca.dll
+C:\Users\UPN\Desktop\FA-2026-16186\Biblioteca\bin\Debug\Biblioteca.pdb
+C:\Users\UPN\Desktop\FA-2026-16186\Biblioteca\obj\Debug\Biblioteca.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA-2026-16186\Biblioteca\obj\Debug\Biblioteca.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA-2026-16186\Biblioteca\obj\Debug\Biblioteca.dll
+C:\Users\UPN\Desktop\FA-2026-16186\Biblioteca\obj\Debug\Biblioteca.pdb
