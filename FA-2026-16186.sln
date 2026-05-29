@@ -25,6 +25,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SE9-C", "SE9-C\SE9-C.csproj
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Biblioteca", "Biblioteca\Biblioteca.csproj", "{8C1B1B89-8E3D-45E0-A350-1887F9F2B98F}"
 EndProject
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "SE10-P", "SE10-P\SE10-P.pyproj", "{6A82EE18-D09B-409F-86C5-A5AB9E4AC098}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -65,6 +67,8 @@ Global
 		{8C1B1B89-8E3D-45E0-A350-1887F9F2B98F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{8C1B1B89-8E3D-45E0-A350-1887F9F2B98F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{8C1B1B89-8E3D-45E0-A350-1887F9F2B98F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6A82EE18-D09B-409F-86C5-A5AB9E4AC098}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6A82EE18-D09B-409F-86C5-A5AB9E4AC098}.Release|Any CPU.ActiveCfg = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

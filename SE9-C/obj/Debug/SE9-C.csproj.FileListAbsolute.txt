@@ -1,0 +1,11 @@
+C:\Users\UPN\Desktop\FA-2026-16186\SE9-C\bin\Debug\SE9-C.exe.config
+C:\Users\UPN\Desktop\FA-2026-16186\SE9-C\bin\Debug\SE9-C.exe
+C:\Users\UPN\Desktop\FA-2026-16186\SE9-C\bin\Debug\SE9-C.pdb
+C:\Users\UPN\Desktop\FA-2026-16186\SE9-C\bin\Debug\Biblioteca.dll
+C:\Users\UPN\Desktop\FA-2026-16186\SE9-C\bin\Debug\Biblioteca.pdb
+C:\Users\UPN\Desktop\FA-2026-16186\SE9-C\obj\Debug\SE9-C.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA-2026-16186\SE9-C\obj\Debug\SE9-C.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA-2026-16186\SE9-C\obj\Debug\SE9-C.csproj.Up2Date
+C:\Users\UPN\Desktop\FA-2026-16186\SE9-C\obj\Debug\SE9-C.exe
+C:\Users\UPN\Desktop\FA-2026-16186\SE9-C\obj\Debug\SE9-C.pdb
+C:\Users\UPN\Desktop\FA-2026-16186\SE9-C\obj\Debug\SE9-C.exe.config
