@@ -1,0 +1,8 @@
+C:\Users\UPN\Desktop\FA-2026-16186\SE12-C\bin\Debug\SE12-C.exe.config
+C:\Users\UPN\Desktop\FA-2026-16186\SE12-C\bin\Debug\SE12-C.exe
+C:\Users\UPN\Desktop\FA-2026-16186\SE12-C\bin\Debug\SE12-C.pdb
+C:\Users\UPN\Desktop\FA-2026-16186\SE12-C\obj\Debug\SE12-C.csproj.AssemblyReference.cache
+C:\Users\UPN\Desktop\FA-2026-16186\SE12-C\obj\Debug\SE12-C.csproj.CoreCompileInputs.cache
+C:\Users\UPN\Desktop\FA-2026-16186\SE12-C\obj\Debug\SE12-C.exe
+C:\Users\UPN\Desktop\FA-2026-16186\SE12-C\obj\Debug\SE12-C.pdb
+C:\Users\UPN\Desktop\FA-2026-16186\SE12-C\obj\Debug\SE12-C.exe.config
