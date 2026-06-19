@@ -84,5 +84,21 @@ namespace SE12_C
             }
             else Console.WriteLine("\nLa edad no existe. No se puede eliminar!");
         }
+
+        public void ordenar()
+        {
+            for (int i = 0; i<edad.Length-1; i++)
+            {
+                for (int j = 0; j<edad.Length-1-i;j++)
+                {
+                    if (edad[j] < edad[j+1])
+                    {
+                        byte temp = edad[j];
+                        edad[j] = edad[j+1];
+                        edad[j+1] = temp;
+                    }
+                }
+            }
+        }
     }
 }

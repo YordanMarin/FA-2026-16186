@@ -18,8 +18,8 @@ namespace SE12_C
                 {
                     case 1: e.insertar(); break;
                     case 2: e.mostrar(); break;
-                    case 3: break;
-                    case 4: break;
+                    case 3: e.eliminar(); break;
+                    case 4: e.ordenar(); break;
                     case 5: Environment.Exit(0); break;
                 }
 
